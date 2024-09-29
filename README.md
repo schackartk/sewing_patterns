@@ -12,4 +12,4 @@ The contents of this repository, including all patterns, are licensed under [CC 
 
 ## Giving support
 
-I am distributing my patterns for free, but if you would like to support me in contributing more patterns, you can "[buy my a coffee](https://buymeacoffee.com/schackartk)".
+I am distributing my patterns for free, but if you would like to support me in contributing more patterns, you can [send me fabric money](https://ko-fi.com/schackartk).
